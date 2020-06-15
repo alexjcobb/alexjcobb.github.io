@@ -1,6 +1,9 @@
-<!DOCTYPE html>
-<html>
-<body>
-<a href="https://github.com/alexjcobb/alexjcobb.github.io/blob/master/Alex%20Cobb.md">Alex Cobb</a>
-</body>
-</html>
+# Alex Cobb
+Written content: Blog posts, Newsletters, & Articles
+
+- - - -
+[Writing](https://www.alexcobb.com)
+
+[Blog](https://www.alexcobb.com/cobblog)
+
+#website
